@@ -163,7 +163,8 @@ Combining these individual trading strategies to get one rating scale (-5 to 5).
     * (0) Neutral
     * (1) Watch
     * (2 to 3) Moderate Buy
-    * (4 to 5) MOMMY MOMMY MOMMY
+    * (4 to 5) `$$$$$`
+    
 ![Sovmamadpubo](resources/combined_buy_sell.png)    
 
 ## Postmortem
